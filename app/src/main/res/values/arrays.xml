@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="name">
+        <item>请选择</item>
+        <item>张三</item>
+        <item>李四</item>
+        <item>王五</item>
+        <item>赵六</item>
+        <item>韩七</item>
+        <item>赵老大</item>
+        <item>钱小弟</item>
+        <item>孙二娘</item>
+        <item>李小冉</item>
+        <item>张三丰</item>
+        <item>赵小路</item>
+        <item>周王</item>
+    </string-array>
+</resources>
